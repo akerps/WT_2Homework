@@ -1,0 +1,21 @@
+h1,h2{
+    color: rgb(129, 27, 197);
+    margin: 0;
+    padding: 20px 0;
+}
+body{
+    font-family: 'Lobster', cursive;
+    font-family: 'Merriweather', serif;
+    width: 800px;
+    margin: 0 auto;
+    background-color: rgb(242, 250, 168);
+    padding: 0 20px 20px 20px;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    width: 800px;
+}
+html{
+    background-color: bisque;
+}
